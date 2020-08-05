@@ -1,4 +1,4 @@
-// create a queue data structure. should be a class with methods add and remove
+// create a queue data structure. should be a class with methods add and remove. First one in, last one out.
 
 // create a class called Queue, class name always uppercase
 class Queue {
