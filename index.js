@@ -4,7 +4,7 @@
 class Queue {
   // method constructs and initialize new object
   constructor() {
-    // varialbe that is a new array
+    // varialbe that is a new array, this is reference to an object
     this.data = [];
 
   }
